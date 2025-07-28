@@ -1,7 +1,10 @@
 # OutriX
-├── index.html        # Main HTML file
-├── style.css         # Styling & responsive layout
-├── script.js         # Slider logic and interactions
+├── index.html       
+# Main HTML file
+├── style.css         
+# Styling & responsive layout
+├── script.js        
+# Slider logic and interactions
 ├── images/
 │   ├── img1.png
 │   ├── img2.png
